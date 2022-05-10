@@ -30,5 +30,5 @@ Sistemas no início do segundo semestre deste ano (2022).
   </div> 
   
   <div align='center'>
-  <img src="https://i.picasion.com/pic92/5683ba9fe024bdd93adb41b107fa4a8e.gif" width="300" height="300" border="0" />
+  <img src="https://orig00.deviantart.net/24dd/f/2016/163/4/c/cold__rainy_day_by_bbrunomoraes-da60svg.gif" width="900" height="480" border="0" />
   </div>
