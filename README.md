@@ -1,7 +1,8 @@
-Olá! Seja bem-vindo(a) ao meu GitHub! Eu sou o Lucca Nunes! :)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34a8eb&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34a8eb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Nunes;Sou+programador;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="http://beacons.ai/lukareliz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukareliz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukareliz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -14,6 +15,4 @@ Olá! Seja bem-vindo(a) ao meu GitHub! Eu sou o Lucca Nunes! :)
   <a href = "mailto:lyulucca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div> 
   
-  <div align='center'>
-  <img src="https://orig00.deviantart.net/24dd/f/2016/163/4/c/cold__rainy_day_by_bbrunomoraes-da60svg.gif" width="500" height="200" border="0" />
-  </div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34a8eb&height=120&section=footer"/>
