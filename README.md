@@ -17,6 +17,14 @@
 </div>
  
  ##
+ <div align='center'>
+  <h1>SOBRE MIM</h1>
+ </div>
+ <div align='justify'>
+  <h3>Atualmente estou graduando Análise e Desenvolvimento de Sistemas e também estudo programação com as linguagens JAVA e JavaScript através de cursos online com foco    de me tornar um desenvolvedor extremamente capacitado. Sou um profissional apaixonado por tecnologia e por programação, gosto muito de aprender, trabalho muito bem em    equipe, sou muito motivado e comprometido com minha área de atuação.</h3>
+ </div>
+  
+  ##
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lukareliz&bg_color=1f1f1f&color=00e1ff&line=5cc0ff&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
