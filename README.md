@@ -21,7 +21,9 @@
   <h1>SOBRE MIM</h1>
  </div>
  <div align='justify'>
-  <h3>Atualmente estou graduando Análise e Desenvolvimento de Sistemas e também estudo programação com as linguagens JAVA e JavaScript através de cursos online com foco    de me tornar um desenvolvedor extremamente capacitado. Sou um profissional apaixonado por tecnologia e por programação, gosto muito de aprender, trabalho muito bem em    equipe, sou muito motivado e comprometido com minha área de atuação.</h3>
+  <h3>Atualmente estou graduando Análise e Desenvolvimento de Sistemas no 3º semestre e estudo programação com as linguagens Python e Java Script junto com suas bibliotecas e frameworks, com foco de atingir ótimos resultados. Sou um profissional apaixonado por tecnologia e programação, sou comprometido com minha carreira e estudo.
+
+Atualmente trabalho como estagiário de T.I., mas busco minha primeira oportunidade como desenvolvedor júnior ou estagiário.</h3>
  </div>
   
   ##
