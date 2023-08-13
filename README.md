@@ -21,9 +21,15 @@
   <h1>SOBRE MIM</h1>
  </div>
  <div align='justify'>
-  <h3>Atualmente estou graduando Análise e Desenvolvimento de Sistemas no 3º semestre e estudo programação com as linguagens Python e Java Script junto com suas bibliotecas e frameworks, com foco de atingir ótimos resultados. Sou um profissional apaixonado por tecnologia e programação, sou comprometido com minha carreira e estudo.
+  <h3>Estou graduando em Análise e Desenvolvimento de Sistemas, sou apaixonado por Programação e Tecnologia. Tenho colaborado na área de tecnologia a mais de um ano, e ao longo desse tempo, tive o privilégio de obter bons resultados para a minha equipe através da programação, desenvolver projetos impactantes e ser certificado por grandes empresas, como a Google.
+    
+Minha missão é afetar positivamente o mundo e as pessoas usando tecnologia.
 
-Atualmente trabalho como estagiário de T.I., mas busco minha primeira oportunidade como desenvolvedor júnior ou estagiário.</h3>
+Atualmente, sou estagiário de T.I. na Carpolog, onde atuo com Redes e Conexões, suporte técnico, power apps e MS365.
+
+Estou constantemente buscando oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades, estudando tecnologias da stack Front-End, como JavaScript, ReactJS, HTML, CSS e também outras tecnologias como SQL, bancos de dados, Node.JS e sempre me mantendo informado sobre as constantes mudanças na área de tecnologia.
+
+Adoraria me conectar com colegas da área, profissionais em Desenvolvimento de aplicações web, desktop e mobile, e pessoas que compartilham interesses semelhantes. Sinta-se à vontade para me enviar uma mensagem e iniciar uma conversa!</h3>
  </div>
   
   ##
