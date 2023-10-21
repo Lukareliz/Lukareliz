@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82aaff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Nunes.;Sou+desenvolvedor+front-end.;Estudo+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82aaff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Nunes.;Sou+desenvolvedor+front-end.;Estudo+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo(a)!)](https://git.io/typing-svg)<br><br>
 
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Estatísticas&fontSize=40)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukareliz&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lukareliz&theme=blueberry)
@@ -13,7 +15,9 @@
 </div>
 
 <div style="display: inline_block" align='center'><br>
-  <div>TECNOLOGIAS</div><br>
+  
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Tecnologias&fontSize=40)
+  
   <img align="center" alt="logo-JS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="logo-react" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="logo-html" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +29,8 @@
   ##
  
 <div align='center'>
-<div>REDES E CONTATO</div><br>
+  
+![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Redes%20sociais%20e%20Contatos&fontSize=40)
   
   <a href="https://www.linkedin.com/in/luccanunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/Lukareliz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,7 +40,9 @@
  
  ##
  <div align='center'>
-  SOBRE MIM
+
+   ![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Sobre%20mim&fontSize=40)
+  
  </div><br>
 
 <div align='justify'>
