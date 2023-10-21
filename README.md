@@ -1,10 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34a8eb&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34a8eb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Nunes;Sou+programador;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82aaff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Nunes.;Sou+desenvolvedor+front-end.;Estudo+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lukareliz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lukareliz&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukareliz&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lukareliz&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukareliz&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lukareliz&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lukareliz&theme=blueberry&utcOffset=3)
+  
 </div>
 
 <div style="display: inline_block" align='center'><br>
@@ -13,7 +18,8 @@
   <img align="center" alt="logo-react" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="logo-html" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="logo-css" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="logo-python" hheight="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="logo-python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="logo-node" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
   ##
@@ -44,4 +50,4 @@ Adoraria me conectar com colegas da área, profissionais em Desenvolvimento de a
   
   ##
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34a8eb&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=120&section=footer"/>
