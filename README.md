@@ -56,5 +56,13 @@ Adoraria me conectar com colegas da área, profissionais em Desenvolvimento de a
  </div>
   
   ##
+
+<div align='center'>
+
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Missão&fontSize=40)
+
+  ![header](https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Afetar%20positivamente%20o%20mundo%20e%20as%20pessoas%20usando%20tecnologia.&fontSize=20&fontColor=26e88e)
+  
+</div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=120&section=footer"/>
