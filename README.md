@@ -7,10 +7,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Estatísticas&fontSize=40)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukareliz&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lukareliz&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukareliz&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lukareliz&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lukareliz&theme=blueberry&utcOffset=3)
   
 </div>
 
@@ -46,13 +44,24 @@
  </div><br>
 
 <div align='justify'>
-Estou graduando em Análise e Desenvolvimento de Sistemas, sou apaixonado por Programação e Tecnologia. Tenho colaborado na área de tecnologia a mais de um ano, e ao longo desse tempo, tive o privilégio de obter bons resultados para a minha equipe através da programação, desenvolver projetos impactantes e ser certificado por grandes empresas, como a Google.
-    
-Minha missão é afetar positivamente o mundo e as pessoas usando tecnologia.
+🚀 Desenvolvedor Front-end apaixonado por inovação e qualidade! 🚀
+  
+Olá, sou Lucca Nunes, um entusiasta de tecnologia focado no desenvolvimento Front-end. Minha jornada profissional é marcada pela expertise em React.JS, Node.JS, JavaScript e TypeScript. Tenho um compromisso sólido com a qualidade, evidenciado pelo meu conhecimento em testes, metodologias ágeis, e implementação eficiente de CI/CD.
 
-Estou constantemente buscando oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades, estudando tecnologias da stack Front-End, como JavaScript, ReactJS, HTML, CSS e também outras tecnologias como SQL, bancos de dados, Node.JS e sempre me mantendo informado sobre as constantes mudanças na área de tecnologia.
+Atualmente, estou trilhando meu caminho acadêmico como graduando em Análise e Desenvolvimento de Sistemas, onde alio teoria e prática para aprimorar minhas habilidades. Minha abordagem vai além de simples códigos; meu objetivo é criar soluções interativas e eficazes que impulsionem experiências digitais excepcionais.
 
-Adoraria me conectar com colegas da área, profissionais em Desenvolvimento de aplicações web, desktop e mobile, e pessoas que compartilham interesses semelhantes. Sinta-se à vontade para me enviar uma mensagem e iniciar uma conversa!
+👨‍💻 Tecnologias que Domino:
+
+- ReactJS para construir interfaces dinâmicas e interativas.
+- Node.js para o desenvolvimento de aplicações escaláveis e eficientes.
+- JavaScript e TypeScript para escrever código robusto e modular.
+- Testes para garantir a qualidade e performance das aplicações.
+- Metodologias Ágeis: Adotando uma abordagem colaborativa.
+- CI/CD: Implementando processos eficientes.
+
+Estou sempre aberto a oportunidades de aprendizado e colaboração. Se você busca um profissional que alia paixão, inovação e habilidades técnicas, ficarei feliz em conectar e explorar possíveis sinergias!
+
+Vamos construir algo incrível juntos! 🚀
  </div>
   
   ##
