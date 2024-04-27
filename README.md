@@ -1,20 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82aaff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Nunes.;Sou+desenvolvedor+front-end.;Estudo+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo(a)!)](https://git.io/typing-svg)<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Nunes.;Sou+desenvolvedor+front-end.;Estudo+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo(a)!)](https://git.io/typing-svg)<br><br>
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Estatísticas&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=9745f5&height=80&section=header&text=Estatísticas&fontSize=40)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukareliz&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukareliz&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lukareliz&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukareliz&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukareliz&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lukareliz&theme=midnight_purple)
   
 </div>
 
 <div style="display: inline_block" align='center'><br>
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Tecnologias&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=9745f5&height=80&section=header&text=Tecnologias&fontSize=40)
   
   <img align="center" alt="logo-react" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="logo-node" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -30,7 +30,7 @@
  
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Redes%20sociais%20e%20Contatos&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=9745f5&height=80&section=header&text=Redes%20sociais%20e%20Contatos&fontSize=40)
   
   <a href="https://www.linkedin.com/in/luccanunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5513997178614" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -40,7 +40,7 @@
  ##
  <div align='center'>
 
-   ![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Sobre%20mim&fontSize=40)
+   ![header](https://capsule-render.vercel.app/api?type=soft&color=9745f5&height=80&section=header&text=Sobre%20mim&fontSize=40)
   
  </div><br>
 
@@ -65,14 +65,4 @@ Estou sempre aberto a oportunidades de aprendizado e colaboração. Se você bus
 Vamos construir algo incrível juntos! 🚀
  </div>
   
-  ##
-
-<div align='center'>
-
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=82aaff&height=80&section=header&text=Missão&fontSize=40)
-
-  ![header](https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Afetar%20positivamente%20o%20mundo%20e%20as%20pessoas%20usando%20tecnologia.&fontSize=20&fontColor=26e88e)
-  
-</div>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer"/>
