@@ -63,6 +63,9 @@ Atualmente, estou trilhando meu caminho acadêmico como graduando em Análise e 
 Estou sempre aberto a oportunidades de aprendizado e colaboração. Se você busca um profissional que alia paixão, inovação e habilidades técnicas, ficarei feliz em conectar e explorar possíveis sinergias!
 
 Vamos construir algo incrível juntos! 🚀
+
+![octocat-1714151161998](https://github.com/Lukareliz/Lukareliz/assets/101203704/0647feef-9bd0-4853-ba3d-66fca477bfb1)
+
  </div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer"/>
