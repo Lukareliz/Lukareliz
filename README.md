@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Nunes.;Sou+desenvolvedor+front-end.;Estudo+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo(a)!)](https://git.io/typing-svg)<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&weight=700&size=30&duration=2000&pause=1000&color=FFF&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Me+chamo+Lucca+Nunes.;Sou+desenvolvedor+de+Software.)](https://git.io/typing-svg)<br><br>
 
  <div align='center'>
 
@@ -8,41 +8,31 @@
   
  </div>
  
-<div align='center'>
-🚀 Desenvolvedor Front-end apaixonado por inovação e qualidade! 🚀
-  
-Olá, sou Lucca Nunes, um entusiasta de tecnologia focado no desenvolvimento Front-end. Minha jornada profissional é marcada pela expertise em React.JS, Node.JS, JavaScript e TypeScript. Tenho um compromisso sólido com a qualidade, evidenciado pelo meu conhecimento em testes, metodologias ágeis, e implementação eficiente de CI/CD.
+<div align='justify'>
+ 
+Sou um Analista de TI e Desenvolvedor de Software me graduando em Análise e Desenvolvimento de Sistemas, buscando constantemente integrar tecnologias avançadas para criar soluções inovadoras e eficientes. Minha experiência abrange áreas da tecnologia, como Redes, Infraestrutura e Desenvolvimento de Software.
 
-Atualmente, estou trilhando meu caminho acadêmico como graduando em Análise e Desenvolvimento de Sistemas, onde alio teoria e prática para aprimorar minhas habilidades. Minha abordagem vai além de simples códigos; meu objetivo é criar soluções interativas e eficazes que impulsionem experiências digitais excepcionais.
+Atualmente, atuo no GRUPO EBCO, um conjunto de empresas que desenvolve e mantém soluções de inspeção e segurança de contêineres e áreas portuárias, onde aplico minhas habilidades para garantir a segurança, eficiência e inovação na infraestrutura de TI, sempre com foco na melhoria contínua dos sistemas de informação.
 
-👨‍💻 Tecnologias que Domino:
-
-ReactJS para construir interfaces dinâmicas e interativas.<br>
-Node.js para o desenvolvimento de aplicações escaláveis e eficientes.<br>
-JavaScript e TypeScript para escrever código robusto e modular.<br>
-Testes para garantir a qualidade e performance das aplicações.<br>
-Metodologias Ágeis: Adotando uma abordagem colaborativa.<br>
-CI/CD: Implementando processos eficientes.<br>
-
-Estou sempre aberto a oportunidades de aprendizado e colaboração. Se você busca um profissional que alia paixão, inovação e habilidades técnicas, ficarei feliz em conectar e explorar possíveis sinergias!
-
-Vamos construir algo incrível juntos! 🚀
-
-<img src="https://github.com/Lukareliz/Lukareliz/assets/101203704/0647feef-9bd0-4853-ba3d-66fca477bfb1" alt="Octocat" width="500" height="500">
+Acredito que o conhecimento é uma ferramenta poderosa, capaz de transformar ideias em soluções concretas. Por isso, estou constantemente em busca de novos desafios e oportunidades de estudo, seja através de cursos formais, certificações ou autoaprendizado. A cada nova habilidade adquirida, sinto-me mais preparado para enfrentar os desafios da tecnologia e encontrar maneiras inovadoras de aplicar esse conhecimento no meu trabalho diário.
 
  </div>
 
 <div style="display: inline_block" align='center'><br>
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=9745f5&height=80&section=header&text=Tecnologias&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=9745f5&height=80&section=header&text=Minha%20Stack&fontSize=40)
   
-  <img align="center" alt="logo-react" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="logo-node" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="logo-JS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logo-TS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="logo-html" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo-css" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="logo-python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="logo-JS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="logo-TS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="logo-node" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="logo-react" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="logo-git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="logo-docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="logo-npm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="logo-postgres" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="logo-html" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="logo-css" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="logo-python" height="55" width="55" src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000">
   
 </div>
 
@@ -50,7 +40,7 @@ Vamos construir algo incrível juntos! 🚀
  
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=soft&color=9745f5&height=80&section=header&text=Redes%20sociais%20e%20Contatos&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=9745f5&height=80&section=header&text=Para%20Networking&fontSize=40)
   
   <a href="https://www.linkedin.com/in/luccanunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5513997178614" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
