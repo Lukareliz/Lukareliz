@@ -10,11 +10,13 @@
  
 <div align='justify'>
  
-Sou um Analista de TI e Desenvolvedor de Software me graduando em Análise e Desenvolvimento de Sistemas, buscando constantemente integrar tecnologias avançadas para criar soluções inovadoras e eficientes. Minha experiência abrange áreas da tecnologia, como Redes, Infraestrutura e Desenvolvimento de Software.
+Sou Desenvolvedor Back-End, formado em Análise e Desenvolvimento de Sistemas, com experiência em linguagens como JavaScript e TypeScript e na criação de soluções escaláveis. Meu foco está no desenvolvimento e integração de APIs RESTful, gerenciamento de dados com bancos de dados SQL, além da aplicação de boas práticas como Clean Code e design patterns.
 
-Atualmente, atuo no GRUPO EBCO, um conjunto de empresas que desenvolve e mantém soluções de inspeção e segurança de contêineres e áreas portuárias, onde aplico minhas habilidades para garantir a segurança, eficiência e inovação na infraestrutura de TI, sempre com foco na melhoria contínua dos sistemas de informação.
+Tenho experiência em ferramentas e tecnologias como Node.js, Express, sou adepto do uso de Git para controle de versão e Docker para ambientes de desenvolvimento consistentes. Também estou familiarizado com metodologias ágeis como Scrum e práticas de integração contínua.
 
-Acredito que o conhecimento é uma ferramenta poderosa, capaz de transformar ideias em soluções concretas. Por isso, estou constantemente em busca de novos desafios e oportunidades de estudo, seja através de cursos formais, certificações ou autoaprendizado. A cada nova habilidade adquirida, sinto-me mais preparado para enfrentar os desafios da tecnologia e encontrar maneiras inovadoras de aplicar esse conhecimento no meu trabalho diário.
+Acredito que o conhecimento é a chave para transformar desafios complexos em soluções eficientes e inovadoras. Por isso, estou sempre investindo no aprendizado de novas tecnologias e tendências, seja por meio de cursos, certificações ou projetos pessoais. Cada nova habilidade adquirida representa uma oportunidade de otimizar processos e agregar valor aos projetos em que atuo.
+
+Estou em busca de desafios que me permitam explorar tecnologias modernas e contribuir para a criação de sistemas robustos, escaláveis e que impactem positivamente o cenário.
 
  </div>
 
